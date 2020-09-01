@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: libro 1
+  author: seba
+  status: 1
+  loan_date: 2020-08-31 19:24:41
+  return_date: 2020-08-31 19:24:41
+
+two:
+  title: libro 2
+  author: eugenio
+  status: 0
+  loan_date: 2020-08-31 19:24:41
+  return_date: 2020-08-31 19:24:41
